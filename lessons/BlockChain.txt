@@ -1,0 +1,33 @@
+What is Blockchain?
+
+At its simplest, Blockchain is a time-stamped series of immutable (tamper-proof) records of 
+data that is managed by a cluster of computers not owned by any single entity. 
+Each of these blocks of data (i.e. block) is secured and bound to each other using 
+cryptographic principles (i.e. chain), hence the name.
+
+Key Features of Blockchain:
+
+    Decentralization: Before Bitcoin and BitTorrent, we were more used to centralized services. 
+                        The idea is very simple. You have a centralized entity which stored all 
+                        the data, and you'd have to interact solely with this entity to get the 
+                        information you needed. Another example of a centralized system is the 
+                        banks. They store all your money, and the only way that you can pay 
+                        someone is by going through the bank.
+
+                      Blockchain introduces the concept of decentralization. Instead of 
+                      needing a third party to facilitate transactions, transactions can 
+                      be facilitated directly between peers.
+
+    Transparency and Anonymity: One of the most misinterpreted features of the blockchain is 
+                                the idea of "transparency." Some people say that because of it, 
+                                everyone can see what transactions you've made, and your identity 
+                                is exposed. This isn't entirely true.
+
+                                When a person makes a public key, they make it with their 
+                                private key, which remains hidden. So, while people might 
+                                see a public key (an address) making transactions, they 
+                                don’t know who the actual person is.
+
+    Immutable: Immutability, in the context of the blockchain, means that once something has 
+    been entered into the blockchain, it cannot be tampered with. This adds a level of 
+    security to the blockchain.
