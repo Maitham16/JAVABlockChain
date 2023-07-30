@@ -1,0 +1,16 @@
+Interoperability and Cross-Chain Technology
+Interoperability is a term used to describe the ability for different blockchain protocols to 
+interact and communicate with each other. There are several projects currently working on 
+cross-chain technology, which would allow for a seamless experience between all blockchain 
+networks.
+
+As for how to apply this in Java, there are several libraries that can be used to interact 
+with blockchain networks, such as web3j for Ethereum, bitcoinj for Bitcoin and more. These 
+libraries allow for the creation and management of wallets, crafting transactions, smart 
+contract interaction and more.
+
+For instance, using web3j to connect to an Ethereum network could look something like:
+
+Web3j web3 = Web3j.build(new HttpService());  // defaults to http://localhost:8545/
+Web3ClientVersion web3ClientVersion = web3.web3ClientVersion().sendAsync().get();
+String clientVersion = web3ClientVersion.getWeb3ClientVersion();

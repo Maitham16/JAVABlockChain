@@ -1,0 +1,13 @@
+ Smart Contracts:
+
+Smart contracts are self-executing contracts with the terms of the agreement being written 
+into code. They are a key feature of many modern blockchain platforms. They can automate a 
+variety of tasks, such as releasing funds when conditions are met, and can even be combined 
+to create 'decentralized applications' (DApps).
+
+Privacy and Security:
+
+Blockchain technologies offer novel solutions to digital trust and privacy issues. However, 
+they also have unique security considerations. For example, if an attacker manages to control 
+more than 50% of the network's mining hash rate, they can reverse transactions and 
+double-spend coins—a so-called 51% attack.

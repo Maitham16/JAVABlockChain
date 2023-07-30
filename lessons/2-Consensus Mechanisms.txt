@@ -1,0 +1,15 @@
+ Consensus Mechanisms:
+
+One of the main aspects that make a blockchain possible is its consensus mechanisms. 
+These algorithms are what allow nodes in a blockchain network to agree on the state 
+of the shared ledger.
+
+Two popular consensus mechanisms are:
+
+    Proof of Work (PoW): This is the protocol that Bitcoin and many other cryptocurrencies use. 
+    It requires nodes to perform a certain amount of computational work to solve complex puzzles, 
+    which makes spamming and manipulating the blockchain very costly.
+
+    Proof of Stake (PoS): This is a newer consensus mechanism that several cryptocurrencies are 
+    planning to transition to. Rather than requiring computational work, it requires nodes to 
+    prove ownership of a certain number of tokens.
